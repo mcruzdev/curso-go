@@ -9,8 +9,8 @@ func main() {
 	var name string = "Matheus"
 	var version float32 = 1.1
 
-	var nameInf = "Cruz"
-	var versionInf = 1.3
+	nameInf := "Cruz"
+	versionInf := 1.3
 
 	fmt.Println("Hello, Sir", name)
 	fmt.Println("Application's version: ", version)
